@@ -86,4 +86,8 @@ A metodologia BEM se mostrou uma solução eficiente para problemas comuns no de
 -https://desenvolvimentoparaweb.com/css/bem/
 -https://codigoaoponto.com/blog/a-maneira-correta-de-utilizar-a-nomenclatura-bem
 -https://www.youtube.com/watch?v=mj6Ze34qGtc
-```
+
+
+link para os slides
+
+https://www.canva.com/design/DAGt0LgxXpw/FT5oogpOhXV3TAr0PWqwlQ/edit?utm_content=DAGt0LgxXpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
