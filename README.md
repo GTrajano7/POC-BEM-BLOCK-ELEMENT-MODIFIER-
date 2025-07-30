@@ -1,9 +1,9 @@
 
 # BEM (Block, Element, Modifier)
 
-> **Gustavo Trajano Dos Reis Padilha
+> Gustavo Trajano Dos Reis Padilha
 > 
-> - * Desenvolvedor Front-End
+> Desenvolvedor Front-End
 
 ## Introdução
 
